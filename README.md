@@ -1,5 +1,5 @@
 ### I'm Dante, and I'm here to make your life better.
-▪️**Programmer** Full Stack || Back-End || JavaScript
+▪️**Programmer** Full Stack || JavaScript || Typescript || React || NodeJS
 
 ⬛ ⌚ You can found me and see my lifestyle [on my instagram](https://instagram.com/danterodrigues_?igshid=OGQ5ZDc2ODk2ZA==) 
 
