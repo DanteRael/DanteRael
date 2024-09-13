@@ -20,7 +20,7 @@
 
 ### You can also find me in:
 
-&nbsp;<a href="linkedin.com/in/dante-ayala-011a31284/">
+&nbsp;<a href="https://www.linkedin.com/in/danterodrigues/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://instagram.com/danterodrigues_?igshid=OGQ5ZDc2ODk2ZA==">
